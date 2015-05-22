@@ -1,0 +1,11 @@
+title: jekylllll
+markdown: kramdown
+highlighter: coderay
+exclude: ["Rakefile", "Gemfile", "Gemfile.lock"]
+description: jekyllllljekylllll
+
+kramdown:
+  use_coderay: true
+  enable_coderay: true
+  coderay_line_numbers: table
+  input: GFM
