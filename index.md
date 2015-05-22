@@ -8,6 +8,6 @@ SELECT jekylllll FROM Otsuka;
 
 ```ruby
 def ore
-  1
+  2
 end
 ```

@@ -8,4 +8,4 @@ kramdown:
   #enable_coderay: true
   #coderay_line_numbers: table
   input: GFM
-  syntax_highlighter: rouge
+  #syntax_highlighter: rouge
